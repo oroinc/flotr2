@@ -1,5 +1,12 @@
 {
     "name": "oro/flotr2",
     "type": "component",
-    "require": {}
+    "require": {},
+     "extra": {
+        "component": {
+            "scripts": [
+                "flotr2.amd.js"
+            ]
+        }
+    }
 }
